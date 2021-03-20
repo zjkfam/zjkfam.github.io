@@ -1,5 +1,5 @@
 {
-  "TV Channels" : [
+  "Local MY TV Channels" : [
     {
       "name" : "8TV",
       "thumb" : "https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png",
@@ -20,5 +20,22 @@
       "thumb" : "https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/aj_logo_2.png",
       "video" : "https://live-hls-aje-ak.getaj.net/AJE/02.m3u8"
     }    
+  ],
+  "Canada" : [
+    {
+      "name" : "CBC News",
+      "thumb" : "https://i.imgur.com/gxGGalE.jpg",
+      "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8"
+    },
+    {
+      "name" : "Filmrise Free Movies",
+      "thumb" : "https://i.imgur.com/UCmO5OK.jpg",
+      "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
+    },
+    {
+      "name" : "Filmrise True Crime",
+      "thumb" : "https://i.imgur.com/8h66d9i.png",
+      "video" : "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8"
+    }
   ]
 }
