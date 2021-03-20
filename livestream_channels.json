@@ -9,6 +9,11 @@
       "name" : "TV9",
       "thumb" : "https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png",
       "video" : "https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWXJ4LRDo5FNb7iUEHwdkGs)/dm/3/x6qqja6/s/live-3.m3u8"
-    }
+    },
+    {
+      "name" : "Channel News Asia",
+      "thumb" : "https://www.channelnewsasia.com/news/livetv/blueprint/cna/img/logo-cna-new.svg",
+      "video" : "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    }    
   ]
 }
