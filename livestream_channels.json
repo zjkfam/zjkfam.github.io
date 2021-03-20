@@ -14,6 +14,11 @@
       "name" : "Channel News Asia",
       "thumb" : "https://www.channelnewsasia.com/news/livetv/blueprint/cna/img/logo-cna-new.svg",
       "video" : "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
-    }    
+    },
+    {
+      "name" : "Al Jazeera",
+      "thumb" : "https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg",
+      "video" : "https://live-hls-aje-ak.getaj.net/AJE/02.m3u8"
+    }
   ]
 }
